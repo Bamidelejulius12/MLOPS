@@ -1,10 +1,14 @@
-class and object (examples)
-class has data/attributes and func / methods
-why python is called object oriented programming?
+1. class and object (examples)
+2. class has data/attributes and func / methods
+3. why python is called object oriented programming?
 * everything in python is an object(data structure, data type etc)
-Advantages of OOPS:
+4. Advantages of OOPS:
  > You can create your own data type
  > code resuability
  > debugging
  > easy to colab
- 
+
+5. End to end project (chatbook class)
+ > encapsulation
+ > getter and setter
+ > static method
